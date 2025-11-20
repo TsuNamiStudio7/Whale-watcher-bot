@@ -2,7 +2,7 @@
 
 Simple bot to monitor whale wallets on Ethereum for large transactions.
 
-## 🔍 What it does
+## 🔍 What it does 
 
 - Monitors known wallets using Etherscan API
 - Alerts you when a transaction exceeds a threshold (e.g. 100 ETH)
